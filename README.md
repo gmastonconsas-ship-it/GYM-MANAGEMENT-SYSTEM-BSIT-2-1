@@ -1,2 +1,2 @@
-# GYM-MANAGEMENT-SYSTEM-BSIT-2-1 
+Everybody Fitness Gym Management System
 Geonzon,Campillanos,Robles
